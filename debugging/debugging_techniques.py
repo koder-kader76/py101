@@ -7,6 +7,8 @@
 # debugging with print
 # e.g
 
+import pdb
+
 def titlize(sentence):
     words = sentence.split()
     # print(words)
@@ -16,6 +18,7 @@ def titlize(sentence):
         # print(word)
         if len(word) > 2:
             # print(word)
+            pdb.set_trace()
             word = word.capitalize()
             # print(word)
         new_words.append(word)
