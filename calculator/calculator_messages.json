@@ -1,0 +1,58 @@
+{
+    "english": {
+        "1": "Welcome to Calculator!",
+        "2": "What's the first number?",
+        "3": "What's the second number?",
+        "4": "Hmm...that doesn't look like a valid number",
+        "5": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+        "6": "You must choose 1, 2, 3, or 4",
+        "7": "Would you like to perform another calculation? (y/n) ",
+        "8": "Please type 'y' or 'n' ",
+        "9": "The result is ",
+        "10": "Press 'en' for English",
+        "11": "Sorry, please try again",
+        "12": "Cannot divide by 0"
+    },
+    "french": {
+        "1": "Bienvenue sur Calculatrice!",
+        "2": "Quel est le premier numéro ?",
+        "3": "Quel est le deuxième numéro?",
+        "4": "Hmm...ça ne ressemble pas à un numéro valide",
+        "5": "Quelle opération souhaitez-vous effectuer?\n 1) Additionner 2) Soustraire 3) Multiplier 4) Diviser",
+        "6": "Vous devez choisir 1, 2, 3 ou 4",
+        "7": "Souhaitez-vous effectuer un autre calcul?(y/n)",
+        "8": "Veuillez taper « y (oui) » ou « n (non»",
+        "9": "Le résultat est ",
+        "10": "Appuyez sur 'fr' pour le français",
+        "11": "Désolé, veuillez réessayer",
+        "12": "Impossible de diviser par 0"
+    },
+    "spanish": {
+        "1": "¡Bienvenido a Calculadora!",
+        "2": "¿Cual es el primer numero?",
+        "3": "¿Cuál es el segundo número?",
+        "4": "Hmm...ese no parece un número válido",
+        "5": "¿Qué operación te gustaría realizar? 1) Sumar 2) Restar 3) Multiplicar 4) Dividir",
+        "6": "Debes elegir 1, 2, 3 o 4",
+        "7": "¿Desea realizar otro cálculo? (y (si) / n (no) )",
+        "8": "Por favor escriba 'y' (si) o 'n' (no)",
+        "9": "El resultado es ",
+        "10": "Presione 'es' para Español",
+        "11": "Lo siento, por favor inténtalo de nuevo.",
+        "12": "No se puede dividir por 0"
+    },
+    "german": {
+        "1": "Willkommen beim Rechner!",
+        "2": "Was ist die erste Zahl?",
+        "3": "Was ist die zweite Zahl?",
+        "4": "Hmm...es sieht nicht nach einer gültigen Nummer aus",
+        "5": "Welche Operation möchten Sie durchführen? \n 1) Addieren 2) Subtrahieren 3) Multiplizieren 4) Dividieren",
+        "6": "Sie müssen 1, 2, 3 oder 4 wählen",
+        "7": "Möchten Sie eine weitere Berechnung durchführen? (y/n)",
+        "8": "Bitte geben Sie 'y' (ja) oder 'n' (nein) ein",
+        "9": "Das Ergebnis ist ",
+        "10": "Drücken Sie 'de' für Deutsch",
+        "11": "Entschuldigen Sie, bitte versuchen Sie es erneut",
+        "12": "Kann nicht durch 0 dividieren"
+    }
+}
