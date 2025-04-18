@@ -41,8 +41,7 @@ def prompt(message):
 
 def isvalid_loan(amount_str):
     try:
-        amount = float(amount_str)
-        return amount >= 1000
+        return float(amount_str) >= 0
     except ValueError:
         return False
 
@@ -108,7 +107,7 @@ def mortgage_calculator():
     prompt(f"Loan Amount: ${loan_amount:,.2f}")
     prompt(f"Annual Interest Rate: {annual_rate * 100:.2f}%")
     prompt(f"Loan Duration: {loan_duration // 12} years,"
-           f"{loan_duration % 12} months)")
+           f"{loan_duration % 12} months.")
     prompt(f"Your monthly payment is: ${monthly_payment:,.2f}")
 
     return f"${monthly_payment:,.2f}"
